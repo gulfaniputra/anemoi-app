@@ -52,7 +52,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search('Rome');
+    search('Oslo');
   }, []);
 
   return (
@@ -68,7 +68,7 @@ const Weather = () => {
         />
       </div>
       <img
-        src={clear_icon}
+        src={weatherData.icon}
         alt="A weather icon."
         className="weather-icon"
       />
