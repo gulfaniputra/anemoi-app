@@ -1,8 +1,46 @@
-# React + Vite
+# Anemoi App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table Of Contents
 
-Currently, two official plugins are available:
+- [About](#about)
+- [Description](#description)
+- [Features](#features)
+- [Demo](#demo)
+- [Stack](#stack)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About
+
+A spartan weather web application.
+
+The name 'anemoi' derives from the collective name for the four Greek gods of the winds: Boreas, Notus, Eurus, & Zephyrus.
+
+## Description
+
+The objective is to learn ES6 & React features, especially:
+
+- template literals
+- arrow function
+- OR operator
+- ternary operator
+- event handlers
+- `<input>` component
+- `async` function
+- `fetch()` method
+- `useState` Hook
+- `useEffect` Hook
+- `useRef` Hook
+
+## Features
+
+![The screenshot of the app's features.](public/features.png)
+
+## Demo
+
+## Stack
+
+- HTML5
+- CSS3
+- ES6
+- Vite
+- React
+- OpenWeatherMap API
