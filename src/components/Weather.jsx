@@ -28,6 +28,28 @@ const Weather = () => {
       />
       <p className="temperature">16°C</p>
       <p className="location">Birmingham</p>
+      <div className="weather-data">
+        <div className="col">
+          <img
+            src={humidity_icon}
+            alt="The humidity icon"
+          />
+          <div>
+            <p>87%</p>
+            <span>Humidity</span>
+          </div>
+        </div>
+        <div className="col">
+          <img
+            src={wind_icon}
+            alt="The wind speed icon"
+          />
+          <div>
+            <p>11.2 km/h</p>
+            <span>Wind Speed</span>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
