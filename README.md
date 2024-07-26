@@ -36,6 +36,8 @@ The objective is to learn ES6 & React features, especially:
 
 ## Demo
 
+https://anemoi.vercel.app/
+
 ## Stack
 
 - HTML5
